@@ -1,1 +1,3 @@
 *.docx
+*.py
+!/temp/*.py
